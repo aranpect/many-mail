@@ -1,3 +1,5 @@
+#まず→のリンクから<<https://myaccount.google.com/lesssecureapps?rapt=AEjHL4PkIfvizQXfFRa-l2_jIvyUwkYjBSXzDpBJJon6CJqcH06pyx7RAjnwo1L26nmBVcg5bBq8oJyY-i4wxgO8kJqimt1UkA>>から、安全性の低いアプリの許可: 有効にします
+
 #自分のメールアドレスを入れる
 x="xxxx@.gmailcom"
 
